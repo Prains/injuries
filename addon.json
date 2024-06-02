@@ -1,0 +1,6 @@
+{
+  "title": "Injury Effect",
+  "type": "addon",
+  "tags": ["fun", "utility"],
+  "ignore": ["*.psd", "*.vcproj", "*.svn*"]
+}
